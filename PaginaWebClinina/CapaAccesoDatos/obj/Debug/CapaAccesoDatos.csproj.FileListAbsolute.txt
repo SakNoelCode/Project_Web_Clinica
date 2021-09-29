@@ -1,0 +1,27 @@
+C:\Users\ARCANGEL\Documents\ProyectoWeb\PaginaWebClinina\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\ARCANGEL\Documents\ProyectoWeb\PaginaWebClinina\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\ARCANGEL\Documents\ProyectoWeb\PaginaWebClinina\CapaAccesoDatos\bin\Debug\CapaEntidades.dll
+C:\Users\ARCANGEL\Documents\ProyectoWeb\PaginaWebClinina\CapaAccesoDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\ARCANGEL\Documents\ProyectoWeb\PaginaWebClinina\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\ARCANGEL\Documents\ProyectoWeb\PaginaWebClinina\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\ARCANGEL\Documents\ProyectoWeb\PaginaWebClinina\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\ARCANGEL\Documents\ProyectoWeb\PaginaWebClinina\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\ARCANGEL\Documents\ProyectoWeb\PaginaWebClinina\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+D:\Visual Studio Proyects\ProyectoClinica__ASP.NET\PaginaWebClinina\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+D:\Visual Studio Proyects\ProyectoClinica__ASP.NET\PaginaWebClinina\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+D:\Visual Studio Proyects\ProyectoClinica__ASP.NET\PaginaWebClinina\CapaAccesoDatos\bin\Debug\CapaEntidades.dll
+D:\Visual Studio Proyects\ProyectoClinica__ASP.NET\PaginaWebClinina\CapaAccesoDatos\bin\Debug\CapaEntidades.pdb
+D:\Visual Studio Proyects\ProyectoClinica__ASP.NET\PaginaWebClinina\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+D:\Visual Studio Proyects\ProyectoClinica__ASP.NET\PaginaWebClinina\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+D:\Visual Studio Proyects\ProyectoClinica__ASP.NET\PaginaWebClinina\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+D:\Visual Studio Proyects\ProyectoClinica__ASP.NET\PaginaWebClinina\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+D:\Visual Studio Proyects\ProyectoClinica__ASP.NET\PaginaWebClinina\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\ARCANGEL\Downloads\PaginaWebClinina\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\ARCANGEL\Downloads\PaginaWebClinina\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\ARCANGEL\Downloads\PaginaWebClinina\CapaAccesoDatos\bin\Debug\CapaEntidades.dll
+C:\Users\ARCANGEL\Downloads\PaginaWebClinina\CapaAccesoDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\ARCANGEL\Downloads\PaginaWebClinina\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\ARCANGEL\Downloads\PaginaWebClinina\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\ARCANGEL\Downloads\PaginaWebClinina\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\ARCANGEL\Downloads\PaginaWebClinina\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\ARCANGEL\Downloads\PaginaWebClinina\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb

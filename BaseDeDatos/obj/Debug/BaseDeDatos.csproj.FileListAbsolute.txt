@@ -1,0 +1,6 @@
+C:\Users\ARCANGEL\Documents\ProyectoWeb\BaseDeDatos\bin\Debug\BaseDeDatos.dll
+C:\Users\ARCANGEL\Documents\ProyectoWeb\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\ARCANGEL\Documents\ProyectoWeb\BaseDeDatos\obj\Debug\BaseDeDatos.csprojAssemblyReference.cache
+C:\Users\ARCANGEL\Documents\ProyectoWeb\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\ARCANGEL\Documents\ProyectoWeb\BaseDeDatos\obj\Debug\BaseDeDatos.dll
+C:\Users\ARCANGEL\Documents\ProyectoWeb\BaseDeDatos\obj\Debug\BaseDeDatos.pdb

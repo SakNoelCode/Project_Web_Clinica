@@ -1,0 +1,12 @@
+C:\Users\ARCANGEL\Documents\ProyectoWeb\PaginaWebClinina\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\ARCANGEL\Documents\ProyectoWeb\PaginaWebClinina\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\ARCANGEL\Documents\ProyectoWeb\PaginaWebClinina\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\ARCANGEL\Documents\ProyectoWeb\PaginaWebClinina\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\ARCANGEL\Documents\ProyectoWeb\PaginaWebClinina\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\ARCANGEL\Documents\ProyectoWeb\PaginaWebClinina\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\Visual Studio Proyects\ProyectoClinica__ASP.NET\PaginaWebClinina\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\Visual Studio Proyects\ProyectoClinica__ASP.NET\PaginaWebClinina\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\Visual Studio Proyects\ProyectoClinica__ASP.NET\PaginaWebClinina\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+D:\Visual Studio Proyects\ProyectoClinica__ASP.NET\PaginaWebClinina\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\Visual Studio Proyects\ProyectoClinica__ASP.NET\PaginaWebClinina\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\Visual Studio Proyects\ProyectoClinica__ASP.NET\PaginaWebClinina\CapaEntidades\obj\Debug\CapaEntidades.pdb
